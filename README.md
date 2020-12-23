@@ -4,11 +4,6 @@
 - [x] added Assignment#1
 ### **Week2 **
 - [ ] added Assignment2
-- [x] Venus
-- [x] Earth (Orbit/Moon)
-- [x] Mars
-- [ ] Jupiter
-- [ ] Saturn
-- [ ] Uranus
-- [ ] Neptune
-- [ ] Comet Haley
+- [ ] added Task#1
+- [ ] added Task#2
+- [ ] added Task#3
