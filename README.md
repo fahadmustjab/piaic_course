@@ -1,4 +1,4 @@
-# piaic_course
+# PIAIC COURSE PROJECTS AND ASSIGNMENTS
 ## **ASSIGNMENTS**
 ### **Week1**
 - [x] added Assignment#1
