@@ -1,6 +1,6 @@
 # PIAICAI COURSE PROJECTS AND ASSIGNMENTS
 ## **Quarter#2 by Sir Nasir**
-### **ASSIGNMENTS**
+### **ASSIGNMENTS** 
 #### **Week1**
 ```diff
 
@@ -8,8 +8,10 @@
 ```
 #### **Week2**
 ```diff
-☐ added Assignment2
-☐ added Task#1
-☐ added Task#2
-☐ added Task#3
+
+☑️Added Assignment2
+☐ Added Task#1
+☐ Added Task#2
+☐ Added Task#3
+
 ```
