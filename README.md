@@ -1,11 +1,12 @@
-# PIAIC COURSE PROJECTS AND ASSIGNMENTS
-## **ASSIGNMENTS**
-### **Week1**
+# PIAICAI COURSE PROJECTS AND ASSIGNMENTS
+## **Quarter#2**
+### **ASSIGNMENTS**
+#### **Week1**
 ```diff
 
 ☑️ Added Assignment # 1
 ```
-### **Week2**
+#### **Week2**
 ```diff
 ☐ added Assignment2
 ☐ added Task#1
