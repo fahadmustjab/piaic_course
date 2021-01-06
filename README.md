@@ -10,8 +10,8 @@
 ```diff
 
 ☑️Added Assignment2
-☐ Added Task#1
-☐ Added Task#2
-☐ Added Task#3
+☑️ Added Task#1
+☑️ Added Task#2
+☑️ Added Task#3
 
 ```
